@@ -1,10 +1,3 @@
-# PO Exception Triage Agent — Claude Code Implementation Guide
-
-> Hand this document to Claude Code and say: **"Implement this project end-to-end."**  
-> Claude Code will work through every phase below, writing and running all code.
-
----
-
 ## 0. Project Orientation
 
 **Goal:** Build a prototype PO Exception Triage Agent. A Merch Planner describes a problem PO in
